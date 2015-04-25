@@ -1,10 +1,11 @@
-#Great circle distance
+#Is Holiday
 ###IBM SPSS Modeler Predictive Extensions
 
-Compute the shortest distance distance between two points on the surface of the Earth.
+Enrich your date data with holiday calendars from different countries
 
-![Map](https://github.com/IBMPredictiveAnalytics/Great-Circle-Distance/blob/master/Screenshot/Illustration1.png?raw=true)
-![Map](https://github.com/IBMPredictiveAnalytics/Great-Circle-Distance/blob/master/Screenshot/Illustration2.png?raw=true)
+![Map](https://github.com/IBMPredictiveAnalytics/IsHoliday/blob/master/Screenshot/Illustration2.png?raw=true)
+![Map](https://github.com/IBMPredictiveAnalytics/IsHoliday/blob/master/Screenshot/Illustration1.png?raw=true)
+
 
 ---
 Requirements
@@ -46,9 +47,9 @@ Contributors
 
 [1]: http://www.apache.org/licenses/LICENSE-2.0.html
 [2]:https://developer.ibm.com/predictiveanalytics/downloads/#tab2
-[3]:https://github.com/IBMPredictiveAnalytics/Great-Circle-Distance/raw/master/Source%20code/GreatCircleDistance.cfe
-[5]:https://github.com/IBMPredictiveAnalytics/Great-Circle-Distance/blob/master/Documentation/GreatCircleDistance-SPSSModelerExtension.pdf
-[6]:https://github.com/IBMPredictiveAnalytics/Great-Circle-Distance/tree/master/Example
+[3]:https://github.com/IBMPredictiveAnalytics/IsHoliday/raw/master/Source%20code/isHoliday.cfe
+[5]:https://github.com/IBMPredictiveAnalytics/IsHoliday/blob/master/Documentation/IsHoliday-SPSSModelerExtension.pdf
+[6]:https://github.com/IBMPredictiveAnalytics/IsHoliday/tree/master/Example
 [10]:http://armandruiz.com/SPSSmaps/crimeChicago1.html
 [11]:http://cran.r-project.org/web/packages/RColorBrewer/index.html
-[20]:https://www.youtube.com/watch?v=6Ads10Ew_8Y
+[20]:https://www.youtube.com/watch?v=xcbET7fB7r0
