@@ -10,7 +10,7 @@ Enrich your date data with holiday calendars from different countries
 ---
 Requirements
 ----
-- IBM SPSS Modeler v16.0 or later
+- IBM SPSS Modeler v16 or v17
 - IBM SPSS Modeler 'R Essentials'
 - R 2.15.x or R 3.1
 
