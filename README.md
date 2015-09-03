@@ -1,7 +1,7 @@
 #Is Holiday
 ###IBM SPSS Modeler Predictive Extensions
 
-Enrich your date data with holiday calendars from different countries
+Enrich your date data with holiday calendars from different countries.
 
 ![Map](https://github.com/IBMPredictiveAnalytics/IsHoliday/blob/master/Screenshot/Illustration2.png?raw=true)
 ![Map](https://github.com/IBMPredictiveAnalytics/IsHoliday/blob/master/Screenshot/Illustration1.png?raw=true)
